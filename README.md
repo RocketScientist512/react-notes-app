@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). My Project was not able to sync properly to the database as ElephentSQL is no longer active. The alternative that I used was unable to support the necessary requirements. If anyone is able to solve further, please let me know. 
 
 ## Available Scripts
 
